@@ -1,22 +1,22 @@
 {
-    "bot-name": "CypherX",
+    "bot-name": "AmandioX",
     "description": "CypherX, your friendly assistant!",
     "logo": "https://i.ibb.co/nqsRcKDB/Xploader4.jpg",
     "keywords": [],
     "documentation-link": "https://cypherxbot.vercel.app",
     "owner-verification": "tylor9kid@gmail.com", 
   "env": {
-    "SESSION_ID": {
+    "SESSION_ID": {XPLOADER-BOT:~n2wUVZLa#J9ElXxzr-nKq3lonYD1UYRZCBq5pEpvXiLivHWdOXKY
       "description": "Must begin with 'XPLOADER-BOT:~' or 'CYPHER-X:~'.",
       "value": "",
       "required": false
     },
-    "BOT_NAME": {
+    "BOT_NAME": {Amandio 
       "description": "The display name of the bot as it will appear in interactions.",
       "value": "CypherX",
       "required": false
     },
-    "OWNER_NUMBER": {
+    "OWNER_NUMBER": {258850542991
       "description": "The primary owner's WhatsApp number, including country code (e.g., 2547XXXXXXXX).",
       "value": "",
       "required": true
@@ -26,7 +26,7 @@
     "value": "https://example.com/image1.jpg, https://example.com/image2.png",
     "required": false
   },
-    "OWNER_NAME": {
+    "OWNER_NAME": {258850542991
       "description": "The name of the primary owner of the bot.",
       "value": "",
       "required": true
