@@ -1,7 +1,7 @@
 {
-  "name": "CypherX",
+  "name": "sam",
   "version": "1.1.0",
-  "description": "Deployment script for CypherX",
+  "description": "Deployment script for sam",
   "main": "index.js",
   "engines": {
       "node": ">= 18.x",
