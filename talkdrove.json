@@ -2,11 +2,11 @@
     "bot-name": "CypherX",
     "description": "CypherX, your friendly assistant!",
     "logo": "https://i.ibb.co/nqsRcKDB/Xploader4.jpg",
-    "keywords": [],
+    "keywords": [.],
     "documentation-link": "https://cypherxbot.vercel.app",
     "owner-verification": "tylor9kid@gmail.com", 
   "env": {
-    "SESSION_ID": {
+    "SESSION_ID": {CYPHER-X:~UEsDBBQAAAgIAJprmFqq7ChNPQUAAIsJAAAKAAAAY3JlZHMuanNvbq1VWY+zOhL9L35N+rJvkVoaSFiyr3RCRvNAwCxhMdiGLJ*6v49IutXf6N7b0yMNTxYunzpVdXz8C5QoJXAKb2DwC1Q4bX0KuyW9VRAMgNFEEcSgD0Kf+mAAyFxiRvs0zGT+eHWc69iJPa+WtfksfVvMawGe6JjA2STaq6*gvQ+q5pSnwTeAJ*GQyqurSBL+YHpICGbz45s5v1AJh3uDUx3Ns5PI2EVsB9gh+ilOy9isElhA7OdTeFv5Kf4ZfXtWLCPGdjS9JzLG*OQMxcvCkxJJ0DnH3GyKe9harrc+Z+Rn9KvJ7ZToy9ZYLxZhoBTBrgwNuBGUidESfXtf76zNunUUVvigT9K4hOE4hCVN6e3HfefnVRNfdlZ0Gt5EvXCoPXTSoFW30wbaC9*YxpNzNo4zeAh+SFzcu8xUWq2TVCbDSWqGpsVnq2ZRHfWK00N75cxnva1F1v9BfIU*tZL9L32*ODCeBmJwnKFosYEKWgpz1Ky8c2VqXns8T*liGk2xNnN*KJuN6dVneJYhi5kgX8T3iCzDJTfbxZa9viejnoNPV4eT8gP6ou*TBn*HktI6TA*2aMks4n34JpdQgJPDMmKq0ZK6RLQxX4V3BwaF2bvEZjZJ2siR1OzOjQ1m59xkGmtau0bNGLni5NysauY4il8fFWXwNg7BgHvvAwzjlFDs0xSV3T9B7QM*bLcwwJA+ugvOJi43Ne7dT75rWvfF*Zisd0XhiCS*5BdqSZknbc0j1q*BK+iDCqMAEgJDJyUU4dscEuLHkIDBPx+D6mrGsEAUTtKwU5MkKZym8ZzCCf8gf1wSnxK*qv4oIQV9EGFUzCEYUNzAPngcMFRRly1Z5zmZY7WhOTTlkSaxLG+oiiJLZldh8Uy6SwtIqF9UYMApoiSxnMBr7*3*Dw9FlHSOl0aiNFJ1yTIVjuN0WVUkTbJkWTe+5yHw7**qgxJe6VPGj+ZzfRClmFC3bKoc+eGnxj83*SBATUm3tzIYdguIweC335DStIxJV1lT+jhI0hYOuzrAIPJzAt*7IIRtGsAOD5xYuxCDWbBNbvLx*JJymV46cTfBBJXPEFEOg0DW*BeZVaQXUQvVFzXUhJfQh1ASeHiKVBZ07Xg6SHfmbwW9EwvDrsStTyp36V6MNTrCQhvf3Bo9RPlUIsQw*OzyyQ+yptqhDJbf4G7LEczVU2UWguovXCYPk14+cc4j*vIb7lPhYPDry7WHKOzwhsJ8ZB1WE9BNq8vzJzUMJP7PgsgfYRzHcqogaaIg8YrCdZHdRh+UfgcGCr8M0zJGFSrPCKOOz8ewukwhpH6ak47EQri17dg2x45Uz3Xb1s1YH8Y6+Brup2c8LyXxRjJO4mUuNimah5FbY5lcWMY57NT9slz1uMmh0svYT73XvwABA1DPYnvp1lxLmOs+voTn4x1Hi2gRmhPZzCFDz*cDtdv9zhGZEd8zp5LJyzC3rHp38m4SZkkzzE4HXoi83vUa0HybIWP92mV7iuz3ZNpG8pZaKjEYWspt70RkV2XSYn++inuaYfdIoeO2b0abKGPFmLJ4pdZLVK*3spLF8qZ1xlP15C0vBptekHuMGCuZGR9u9nDT*OMVSz+M5inJKIWPR+FjGv91qF+3g33v*4bx8cz8jQKNk633atEbVXCG6pFz4KZ1D88XqyvHMta5ujN0+yavJ6KNCvDeXfsq92mEcAEGwC9DjB6Swajpru+4jNA3yYb6eDzUn5XnPqH6lyX8ldtJz6gVRpXjkwQMgBCv3EnWqf2mV9WW+vTTYYDefRMUgfd*A1BLAQIUAxQAAAgIAJprmFqq7ChNPQUAAIsJAAAKAAAAAAAAAAAAAACAgQAAAABjcmVkcy5qc29uUEsFBgAAAAABAAEAOAAAAGUFAAAAAA==
       "description": "Must begin with 'XPLOADER-BOT:~' or 'CYPHER-X:~'.",
       "value": "",
       "required": false
