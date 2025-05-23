@@ -1,19 +1,19 @@
 {
-    "bot-name": "CypherX",
-    "description": "CypherX, your friendly assistant!",
+    "bot-name": "HANS TECH",
+    "description": "HANS TECH, your friendly assistant!",
     "logo": "https://i.ibb.co/nqsRcKDB/Xploader4.jpg",
     "keywords": [],
-    "documentation-link": "https://cypherxbot.vercel.app",
-    "owner-verification": "tylor9kid@gmail.com", 
+    "documentation-link": "https://hanstechbot.vercel.app",
+    "owner-verification": "hanstechnology96@gmail.com", 
   "env": {
     "SESSION_ID": {
-      "description": "Must begin with 'XPLOADER-BOT:~' or 'CYPHER-X:~'.",
+      "description": "Must begin with 'HANS TECH:~'.",
       "value": "",
       "required": false
     },
     "BOT_NAME": {
       "description": "The display name of the bot as it will appear in interactions.",
-      "value": "CypherX",
+      "value": "HANS TECH",
       "required": false
     },
     "OWNER_NUMBER": {
