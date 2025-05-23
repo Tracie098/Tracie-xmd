@@ -1,7 +1,7 @@
 {
-  "name": "CypherX",
+  "name": "HANS TECH",
   "version": "1.1.0",
-  "description": "Deployment script for CypherX",
+  "description": "Deployment script for hanstech",
   "main": "index.js",
   "engines": {
       "node": ">= 18.x",
@@ -10,7 +10,7 @@
   "scripts": {
     "start": "node index.js"
   },
-  "author": "Tylor",
+  "author": "HANS TECH",
   "license": "MIT",
   "dependencies": {
         "adm-zip": "^0.5.16",
