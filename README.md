@@ -27,3 +27,19 @@
         <img alt="WEBSITE" src="https://img.shields.io/badge/Let%27s_Go-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkred&color=darkred"/>
     </a>
 </p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=800&height=50&lines=THE+MOST+ADVANCED+MULTI-DEVICE+WHATSAPP+BOT;PACKED+WITH+200%2B+AMAZING+FEATURES;EASY+TO+DEPLOY+AND+USE;CREATED+BY+benjie" alt="Typing SVG" />
+</div>
+
+---
+---
+
+## 📝 **Introduction**
+**Tracie-Xmd** is a multi-device WhatsApp bot designed to enhance your WhatsApp experience with a wide range of features. Whether you're looking for entertainment, utility, or automation, Tracie-Xmd has got you covered. Created by **benjie**, this bot is packed with powerful functionalities and is easy to deploy.
+
+---
+
+## 🚀 **Features**
+- **Multi-Device Support**: Works seamlessly across multiple devices.
+- **Easy Deployment**: Deploy on various platforms like Render, panel, heroku, and more.
+- **Customizable**: Add your own features or modify existing ones.
