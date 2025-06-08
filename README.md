@@ -15,7 +15,7 @@
 <p align="center">
     <strong>1. FORK REPOSITORY</strong>
   <br>
-    <a href="https://github.com/Tracie098/Tracie-xmd/fork" target="_blank">
+<a        href="https://github.com/Tracie098/Tracie-xmd/fork" target="_blank">
         <img alt="Fork Repo" src="https://img.shields.io/badge/Fork%20Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkgreen&color=darkgreen"/>
     </a>
 </p>
@@ -72,15 +72,18 @@
    <br>
    <a href="https://github.com/Tracie098/tracie-xmd/archive/refs/heads/main.zip">
      <img src="https://img.shields.io/badge/Download_ZIP-red?style=for-the-badge&logo=google&logoColor=white" alt="Download ZIP">
-   2.Go to your panel and upload the file
-   3.Unachive the file
-   4.Then delete the normal file
-   5.tap on the file left
-   6.Then move all too ../
-   7.Go to you console and press start
-   8.wait till you see enter phone number or session id
-   9.follow the procedure
-   10.your bot pair
+     <br>
+     ```bash
+   2. Go to your panel and upload the file
+   3. Unachive the file
+   4. Then delete the normal file
+   5. tap on the file left
+   6. Then move all too ../
+   7. Go to you console and press start
+   8. wait till you see enter phone number or session id
+   9. follow the procedure
+   10. your bot pair
+     ```
    ### **3. Termux Deployment**
 Run the following commands in Termux:
 ```bash
