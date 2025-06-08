@@ -133,8 +133,9 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 ---
 
 ## 🙏 **Credits**
+-**cypher-x**:file code 
 - **benjie**: For creating and maintaining the bot.
-- **MI.RICHY**: For assisting nd maintaining
+- **MI.RICHY**: For assisting and maintaining
 
 ---
 
