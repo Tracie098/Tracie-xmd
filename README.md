@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/Tracie098/traciexmd">
-    <img alt="Tracie098 docs" height="350" src="https://www.dropbox.com/scl/fi/6lo7us9jlurpspjky1o3q/72A8D1B8-E051-417D-9A72-E762E7880873.jpeg?rlkey=noqskmf2ruscs1gg9l0iagg3j&st=a0dfl263&dl=0" width="300" alt="QUEEN RIAS V3 LOGO"">
+    <img alt="Tracie098 docs" height="350" src="https://www.dropbox.com/scl/fi/6lo7us9jlurpspjky1o3q/72A8D1B8-E051-417D-9A72-E762E7880873.jpeg?
   </a>
 </p>
     
