@@ -1,13 +1,13 @@
 {
     "bot-name": "Tracie-Xmd",
-    "description": "CypherX, your personal  assistant!",
-    "logo": "https://i.ibb.co/nqsRcKDB/Xploader4.jpg",
+    "description": "Tracie-Xmd, your personal  assistant!",
+    "logo": "",
     "keywords": [],
     "documentation-link": "https://cypherxbot.vercel.app",
     "owner-verification": "benjieall098@gmail.com", 
   "env": {
     "SESSION_ID": {
-      "description": "Must begin with 'XPLOADER-BOT:~' or 'Tracie-Xmd:~'.",
+      "description": "Must begin with 'XPLOADER-BOT:~' or 'CYPHER-X:~'.",
       "value": "",
       "required": false
     }
