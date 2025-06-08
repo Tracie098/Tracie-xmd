@@ -2,7 +2,8 @@
 
 <p align="center">
   <a href="https://github.com/Tracie098/traciexmd">
-    <img alt="Tracie098 docs" height="350" src="https://www.dropbox.com/scl/fi/6lo7us9jlurpspjky1o3q/72A8D1B8-E051-417D-9A72-E762E7880873.jpeg?
+    <img alt="Tracie098 docs" height="350" src="https://www.dropbox.com/preview/72A8D1B8-E051-417D-9A72-E762E7880873.jpeg?context=file_uploader_preview_file&role=personal"
+
   </a>
 </p>
     
