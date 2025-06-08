@@ -1,11 +1,8 @@
-<h1 align="center"> TRACIE 𝐗MD </h1>
+<h1 align="center"> TRACIE 𝐗MD </h1
 
-![Banner] (https://i.ibb.co/5gnGfnfC/7-BEB48-C5-B385-4089-A81-E-ABC7-AA974758.jpg)
-
----
-  
----
-
+![Banner](https://i.ibb.co/5gnGfnfC/7-BEB48-C5-B385-4089-A81-E-ABC7-AA974758.jpg)
+<a>
+<b>
 <p align="center">
 <a href="https://github.com/Tracie098"><img title="Author" src="https://img.shields.io/badge/Tracie-darkgreen?style=for-the-badge&logo=whatsapp"></a>
 <p/>
