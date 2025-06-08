@@ -72,7 +72,6 @@
    <br>
    <a href="https://github.com/Tracie098/tracie-xmd/archive/refs/heads/main.zip">
      <img src="https://img.shields.io/badge/Download_ZIP-red?style=for-the-badge&logo=google&logoColor=white" alt="Download ZIP">
-   </a>
    2.Go to your panel and upload the file
    3.Unachive the file
    4.Then delete the normal file
