@@ -1,7 +1,7 @@
 {
   "name": "Tracie-Xmd",
   "description": "Tracie-Xmd, your personal  assistant!",
-  "logo": "https://i.ibb.co/nqsRcKDB/Xploader4.jpg",
+  "logo": "",
   "keywords": [],
   "repository": "https://github.com/Tracie098/Tracie-xmd",
   "stack": "container",
@@ -15,7 +15,7 @@
   },
 "env": {
   "SESSION_ID": {
-    "description": "Must begin with 'XPLOADER-BOT:~' or 'Tracie-Xmd:~'.",
+    "description": "Must begin with 'XPLOADER-BOT:~' or 'CYPHER-X:~'.",
     "value": "",
     "required": false
   }
@@ -32,6 +32,9 @@
     },
     {
       "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git"
+    }
+  ]
+}
     }
   ]
 }
